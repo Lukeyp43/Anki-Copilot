@@ -21,8 +21,8 @@ Anki Copilot adds AI superpowers to Anki. Generate full decks from your notes, g
 Paste your notes or describe a topic. Anki Copilot generates a full deck of flashcards in seconds — review them, pick the ones you like, and save them with one click.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="gifs/readme/dark/ai_generate.gif">
-  <img alt="Create a Whole Deck" src="gifs/readme/light/ai_generate.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="ai_generate.gif">
+  <img alt="Create a Whole Deck" src="ai_generate.gif">
 </picture>
 
 ### 2. Explain Anything
