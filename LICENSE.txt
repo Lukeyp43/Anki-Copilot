@@ -1,0 +1,84 @@
+SPDX-License-Identifier: LicenseRef-Proprietary
+
+Copyright (c) 2026 Luke Pettit. All rights reserved.
+
+PROPRIETARY SOFTWARE LICENSE
+
+Anki Copilot (the "Software") is proprietary software owned by Luke Pettit
+("the Author"). This license governs your use of the Software.
+
+
+1. GRANT OF USE
+
+   Subject to the restrictions below, the Author grants you a personal,
+   non-exclusive, non-transferable, revocable license to install and use
+   the Software as an Anki add-on for your own personal, non-commercial
+   study and educational purposes.
+
+
+2. RESTRICTIONS
+
+   You may NOT, without express prior written permission from the Author:
+
+   (a) Copy, reproduce, or distribute the Software or any portion of its
+       source code;
+
+   (b) Modify, adapt, translate, or create derivative works based on the
+       Software;
+
+   (c) Reverse engineer, decompile, disassemble, or attempt to derive the
+       underlying structure, ideas, or algorithms of the Software, except
+       to the extent required for your personal use as an installed add-on;
+
+   (d) Sell, rent, lease, sublicense, or otherwise transfer the Software
+       to any third party;
+
+   (e) Use the Software for any commercial purpose, including but not
+       limited to integrating it into paid products or services;
+
+   (f) Remove or alter any copyright notices, trademarks, or other
+       proprietary markings contained in the Software;
+
+   (g) Use any portion of the Software's code, design, or functionality
+       to build a competing product.
+
+
+3. OWNERSHIP
+
+   The Software and all intellectual property rights therein are and shall
+   remain the exclusive property of the Author. Nothing in this license
+   transfers any ownership of the Software to you.
+
+
+4. THIRD-PARTY SERVICES
+
+   The Software may interact with third-party services. Your use of those
+   services is governed by their respective terms of service. The Author
+   makes no warranties regarding the availability, behavior, or continued
+   operation of any third-party service.
+
+
+5. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+   THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE.
+
+
+6. TERMINATION
+
+   This license terminates automatically if you violate any of its terms.
+   Upon termination, you must cease all use of the Software and destroy
+   any copies in your possession.
+
+
+7. CONTACT
+
+   For licensing inquiries, permissions, or questions about this license,
+   contact: [REPLACE WITH YOUR EMAIL]
+
+
+By installing or using the Software, you agree to be bound by the terms
+of this license.
