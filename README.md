@@ -3,10 +3,10 @@
 **A 100% free AI study tool for medical students, doctors, and healthcare professionals.**
 Powered by OpenEvidence AI for evidence-based answers.
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="gifs/readme/dark/chat_sidebar.gif">
-    <img alt="Anki Copilot Overview" src="gifs/readme/light/chat_sidebar.gif">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="chat_sidebar.gif">
+  <img alt="Sidebar Chat" src="chat_sidebar.gif">
+</picture>
 
 ## Overview
 Anki Copilot adds AI superpowers to Anki. Generate full decks from your notes, get instant explanations on what you're studying, auto-fill card answers, and chat with a medical AI — all without leaving Anki.
